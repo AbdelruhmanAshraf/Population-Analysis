@@ -31,7 +31,6 @@ Feel free to contribute, report issues, or suggest improvements!
 🔗 GitHub: AbdelruhmanAshraf
 📩 Email: abdelruhamanelfekky@gmail.com
 
-🔥 Happy Coding! 🚀
 
 
 
