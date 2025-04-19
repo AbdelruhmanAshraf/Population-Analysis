@@ -1,4 +1,7 @@
 🌍 POPULATION ANALYSIS
+
+# Explanation video on LinkedIn:
+https://www.linkedin.com/feed/update/urn:li:activity:7313671653299838976/
 This project analyzes world population data using Python, Pandas, Matplotlib, and Seaborn.
 It processes data from the World Bank and visualizes key insights using bar charts and histograms.
 
